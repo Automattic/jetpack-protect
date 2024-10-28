@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Adds and applies a shared Header component
+- Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 
 ## 3.1.1 - 2024-10-17
