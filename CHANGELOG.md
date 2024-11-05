@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Animated the "scan in progress" placeholder image
 - Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
+- Updated package dependencies.
 
 ## 3.1.1 - 2024-10-17
 ### Changed
