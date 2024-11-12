@@ -74,16 +74,16 @@ return array(
 		'version' => '0.4.4.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
-	'Automattic\\Jetpack\\Backup\\V0004\\Helper_Script_Manager' => array(
-		'version' => '0.2.8.0',
+	'Automattic\\Jetpack\\Backup\\V0005\\Helper_Script_Manager' => array(
+		'version' => '0.2.9.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager.php'
 	),
-	'Automattic\\Jetpack\\Backup\\V0004\\Helper_Script_Manager_Impl' => array(
-		'version' => '0.2.8.0',
+	'Automattic\\Jetpack\\Backup\\V0005\\Helper_Script_Manager_Impl' => array(
+		'version' => '0.2.9.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager-impl.php'
 	),
-	'Automattic\\Jetpack\\Backup\\V0004\\Throw_On_Errors' => array(
-		'version' => '0.2.8.0',
+	'Automattic\\Jetpack\\Backup\\V0005\\Throw_On_Errors' => array(
+		'version' => '0.2.9.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-throw-on-errors.php'
 	),
 	'Automattic\\Jetpack\\Boost_Core\\Contracts\\Boost_API_Client' => array(
@@ -823,15 +823,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
-		'version' => '0.2.7.0-alpha1730548010',
+		'version' => '0.2.7.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\V0001\\Package_Version' => array(
-		'version' => '0.2.7.0-alpha1730548010',
+		'version' => '0.2.7.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version-compat.php'
 	),
-	'Automattic\\Jetpack\\Transport_Helper\\V0004\\REST_Controller' => array(
-		'version' => '0.2.7.0-alpha1730548010',
+	'Automattic\\Jetpack\\Transport_Helper\\V0005\\REST_Controller' => array(
+		'version' => '0.2.7.0-alpha1731429590',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection' => array(
