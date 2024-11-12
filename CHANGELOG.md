@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 3.2.0-alpha - unreleased
+## 4.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Updated package dependencies.
+
+### Removed
+- General: Update minimum WordPress version to 6.6.
 
 ## 3.1.1 - 2024-10-17
 ### Changed
