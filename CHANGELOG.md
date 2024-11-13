@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Removed
+- General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
 
 ## 3.1.1 - 2024-10-17
