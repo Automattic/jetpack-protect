@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Replaces custom IconTooltip in favour of js-packages/components version
+- Updated dependencies.
 - Updated package dependencies.
 
 ### Removed
