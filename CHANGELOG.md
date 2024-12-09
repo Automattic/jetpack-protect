@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated dependencies.
 - Updated package dependencies.
+- Use ToggleControl component from @automattic/jetpack-components.
 
 ### Removed
 - General: Update minimum PHP version to 7.2.
