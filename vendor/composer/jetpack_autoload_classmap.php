@@ -843,15 +843,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
-		'version' => '0.3.0.0-alpha1732217150',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\V0001\\Package_Version' => array(
-		'version' => '0.3.0.0-alpha1732217150',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version-compat.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\V0005\\REST_Controller' => array(
-		'version' => '0.3.0.0-alpha1732217150',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection' => array(
