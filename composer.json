@@ -9,7 +9,7 @@
 		"automattic/jetpack-connection": "^9.16.0-alpha",
 		"automattic/jetpack-ip": "^0.7.1",
 		"automattic/jetpack-menu-badges": "^0.2.3",
-		"automattic/jetpack-protect-models": "^0.7.2",
+		"automattic/jetpack-protect-models": "^0.7.3-alpha",
 		"automattic/jetpack-protect-status": "^0.10.0-alpha",
 		"automattic/jetpack-status": "^7.1.1",
 		"automattic/jetpack-wp-build-polyfills": "^0.7.1"
