@@ -10,14 +10,14 @@
 		"automattic/jetpack-ip": "^0.7.1",
 		"automattic/jetpack-menu-badges": "^0.2.3",
 		"automattic/jetpack-protect-models": "^0.7.3",
-		"automattic/jetpack-protect-status": "^0.10.0",
+		"automattic/jetpack-protect-status": "^0.10.1-alpha",
 		"automattic/jetpack-status": "^7.1.1",
 		"automattic/jetpack-wp-build-polyfills": "^0.7.3"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^7.0.6",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-waf": "^0.31.0",
+		"automattic/jetpack-waf": "^0.32.0-alpha",
 		"automattic/phpunit-select-config": "^1.0.12"
 	},
 	"suggest": {
@@ -59,7 +59,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"branch-alias": {
-			"dev-trunk": "0.5.x-dev"
+			"dev-trunk": "0.6.x-dev"
 		},
 		"changelogger": {
 			"link-template": "https://github.com/Automattic/jetpack-protect/compare/v${old}...v${new}"
