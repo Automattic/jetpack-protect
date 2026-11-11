@@ -7,7 +7,7 @@
 		"php": ">=7.4",
 		"automattic/jetpack-admin-ui": "^0.14.15-alpha",
 		"automattic/jetpack-connection": "^9.18.0-alpha",
-		"automattic/jetpack-ip": "^0.7.1",
+		"automattic/jetpack-ip": "^0.8.0-alpha",
 		"automattic/jetpack-menu-badges": "^0.2.3",
 		"automattic/jetpack-monitor": "^0.1.0",
 		"automattic/jetpack-protect-models": "^0.7.4",
